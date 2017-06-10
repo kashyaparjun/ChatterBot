@@ -29,7 +29,7 @@ An untrained instance of ChatterBot starts off with no knowledge of how to commu
 ## Installation
 
 This package can be installed from [PyPi](https://pypi.python.org/pypi/ChatterBot) by running:
-
+Available on Anaconda Python
 ```
 pip install chatterbot
 ```
